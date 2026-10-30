@@ -5,10 +5,10 @@ Practical Assignment 1 – Team Project IT, Vistula University.
 A simple Task Manager built with plain HTML, CSS and JavaScript. Tasks are stored in a Supabase (PostgreSQL) database and accessed through the Supabase auto-generated REST API. The site is hosted on GitHub Pages.
 
 - **Student ID:** 73180
-- **Live application:** https://vistula-team-project-73180.github.io/vistula-task-manager/
-- **Repository:** https://github.com/vistula-team-project-73180/vistula-task-manager
-- **Contributor page:** https://vistula-team-project-73180.github.io/vistula-task-manager/contribution.html
-- **Contributor JSON:** https://vistula-team-project-73180.github.io/vistula-task-manager/contribution.json
+- **Live application:** https://mohamedayad-73180.github.io/vistula-task-manager/
+- **Repository:** https://github.com/mohamedayad-73180/vistula-task-manager
+- **Contributor page:** https://mohamedayad-73180.github.io/vistula-task-manager/contribution.html
+- **Contributor JSON:** https://mohamedayad-73180.github.io/vistula-task-manager/contribution.json
 
 ## Features
 
