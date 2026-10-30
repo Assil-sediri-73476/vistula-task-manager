@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>Task Manager</h1>
+      <p>Student ID: <span id="student-id">73180</span></p>
+    </header>
+
+    <form id="task-form">
+      <input type="text" id="task-title" placeholder="Task title" required>
+      <textarea id="task-description" placeholder="Description (optional)" rows="2"></textarea>
+      <div class="form-buttons">
+        <button type="submit" id="task-submit">Add Task</button>
+        <button type="button" id="task-cancel" hidden>Cancel</button>
+      </div>
+    </form>
+
+    <p id="status-message" role="status"></p>
+
+    <div id="task-list"></div>
+
+    <footer>
+      <a id="contribution-link" href="contribution.html">Team Contribution</a>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
